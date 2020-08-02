@@ -8,10 +8,12 @@ Skin cancer is the most prevalent type of cancer. Melanoma, specifically, is res
 This competition might help reaching that goal and I hope it can help people around the world...
 
 ***The data:*** Train data has 8 features, 33126 observations and Test data 5 features, 10982 observations.
+
 Image Names, Sex, Age, Anatom Sites, Width/Height of the Images and Targets of:
-Current 2020 set with 33k examples including 584 malignant examples,
-2017/18-2019 set with 25k examples with 4522 malignant examples,
-580 completely new malignant examples coming from Chris Deotte's Malignant TFRecords 15-29
+* Current 2020 set with 33k examples including 584 malignant examples,
+* 2017/18-2019 set with 25k examples with 4522 malignant examples,
+* 580 completely new malignant examples coming from Chris Deotte's Malignant TFRecords 15-29
+
 We'll continue by loading metadata we're given. 
 
 Train Dataset Consists Of:
